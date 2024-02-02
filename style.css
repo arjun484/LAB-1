@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+h1{
+  color: rgb(150, 37, 37);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2{
+  color:rgb(150, 37, 37);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text{
+  font-weight: bold;
+}
+.text3{
+  font-size: 12px;
+}
